@@ -1,0 +1,3 @@
+Сборка: texify --pdf --engine=xetex --tex-option=--shell-escape --tex-option=-8bit !.!
+
+Необходимо, что бы был minted
